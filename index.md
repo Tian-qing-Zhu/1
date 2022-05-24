@@ -1,6 +1,6 @@
 ## Tianqing Zhu (Simplified Chinese:祝天擎, Wu pin: Tsoq-thie-jin)
 
-I am a student at Tsinghua University (YMSC), Beijing, China (PRC)
+I am a student at Tsinghua University (YMSC), Beijing, China (PRC). My supervisor is professor [Si Li](https://sili-math.github.io/)
 
 My research is in the representation theory, noncommutative geometry and mathematical structure of quantum field theory. I am now interested in the symplectic duality and the connection between the geometry of the symplectic resolution and the representation theory of the quantum group, especially the Nakajima variety and the categorification. I am also interested in the representation theory of the chiral algebra, factorization homology, quantum integrable model, BV quantization and the formality in the various Hochschild (co)homology.
 
@@ -44,8 +44,6 @@ Spring 2022. Student Mathematical Physics seminar organized by Si Li. Nakajima v
 ## Seminars
 
 In 2020/6---2020/12. I organized a seminar on the factorization algebra and the quantum field theory, you can find some notes here [Link](https://cloud.tsinghua.edu.cn/d/9abceb115652448ab0c2/)
-
-In 2021/11---2022/2. We are trying to understand the Condensed Mathematics by watching videos togethter at Jinchunyuan West Building，the second meeting room every Sunday 19:30. 
 
 In 2022/3 Keke Zhang and I are organizing a seminar on the 3d N=4 Coulomb branch, here is the detail for the seminar
 
