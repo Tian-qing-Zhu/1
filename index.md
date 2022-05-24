@@ -45,19 +45,12 @@ Spring 2022. Student Mathematical Physics seminar organized by Si Li. Nakajima v
 
 In 2020/6---2020/12. I organized a seminar on the factorization algebra and the quantum field theory, you can find some notes here [Link](https://cloud.tsinghua.edu.cn/d/9abceb115652448ab0c2/)
 
+In 2021/11---2022/2. We are trying to understand the Condensed Mathematics by watching videos togethter at Jinchunyuan West Building，the second meeting room every Sunday 19:30. 
+
+In 2022/3 Keke Zhang and I are organizing a seminar on the 3d N=4 Coulomb branch, here is the detail for the seminar
+
+In 2022/3 Keyou Zeng and I are organizing a seminar on the chiral algebra
+
+## Other Stuffs
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tian-qing-Zhu/tsoqthiejin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
